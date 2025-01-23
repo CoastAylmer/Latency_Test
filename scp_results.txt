@@ -1,0 +1,62 @@
+SCP Transfer Results:
+
+Starting SCP transfer 1 of 10....
+Transferred: sent 104924004, received 18312 bytes, in 50.0 seconds
+Bytes per second: sent 2099832.5, received 366.5
+Transfer speed: 2.00 MB/s
+SCP transfer 1 completed successfully!
+
+Starting SCP transfer 2 of 10....
+Transferred: sent 104924004, received 18192 bytes, in 43.9 seconds
+Bytes per second: sent 2391828.8, received 414.7
+Transfer speed: 2.28 MB/s
+SCP transfer 2 completed successfully!
+
+Starting SCP transfer 3 of 10....
+Transferred: sent 104923924, received 17952 bytes, in 44.3 seconds
+Bytes per second: sent 2368118.7, received 405.2
+Transfer speed: 2.26 MB/s
+SCP transfer 3 completed successfully!
+
+Starting SCP transfer 4 of 10....
+Transferred: sent 104923884, received 18212 bytes, in 51.0 seconds
+Bytes per second: sent 2056922.2, received 357.0
+Transfer speed: 1.96 MB/s
+SCP transfer 4 completed successfully!
+
+Starting SCP transfer 5 of 10....
+Transferred: sent 104924024, received 18152 bytes, in 45.5 seconds
+Bytes per second: sent 2306933.2, received 399.1
+Transfer speed: 2.20 MB/s
+SCP transfer 5 completed successfully!
+
+Starting SCP transfer 6 of 10....
+Transferred: sent 104923884, received 18212 bytes, in 43.9 seconds
+Bytes per second: sent 2392411.7, received 415.3
+Transfer speed: 2.28 MB/s
+SCP transfer 6 completed successfully!
+
+Starting SCP transfer 7 of 10....
+Transferred: sent 104924104, received 18272 bytes, in 43.1 seconds
+Bytes per second: sent 2435865.5, received 424.2
+Transfer speed: 2.32 MB/s
+SCP transfer 7 completed successfully!
+
+Starting SCP transfer 8 of 10....
+Transferred: sent 104923884, received 18212 bytes, in 43.5 seconds
+Bytes per second: sent 2411697.7, received 418.6
+Transfer speed: 2.30 MB/s
+SCP transfer 8 completed successfully!
+
+Starting SCP transfer 9 of 10....
+Transferred: sent 104925204, received 18292 bytes, in 46.6 seconds
+Bytes per second: sent 2252667.5, received 392.7
+Transfer speed: 2.15 MB/s
+SCP transfer 9 completed successfully!
+
+Starting SCP transfer 10 of 10....
+Transferred: sent 104924284, received 18172 bytes, in 42.8 seconds
+Bytes per second: sent 2448941.0, received 424.1
+Transfer speed: 2.34 MB/s
+SCP transfer 10 completed successfully!
+
