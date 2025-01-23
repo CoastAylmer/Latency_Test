@@ -24,25 +24,7 @@ Validate inputs.
 
 Perform SCP transfers (default: 10 iterations).
 
-Log the results in transfer_summary.txt.
-
-Output
-
-The script generates two files:
-
-scp_results.txt: Contains the raw output of the scp -v command for debugging purposes.
-
-transfer_summary.txt: A clean and formatted summary of each transfer, including:
-
-Bytes transferred
-
-Transfer time
-
-Transfer speed (MB/s)
-
-Success or failure status
-
-Example Output in transfer_summary.txt:
+Example Output in scp_results.txt:
 
 Starting SCP transfer 1 of 10....
 Transferred: sent 104924004, received 18312 bytes, in 50.0 seconds
