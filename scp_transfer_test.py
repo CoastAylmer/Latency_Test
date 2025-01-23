@@ -35,7 +35,9 @@ while True:
 mykey = input("Enter your password for SSH (if needed): ")
 
 
-outputFile = "scp_results.txt"
+outputFile = input("Enter the path for the output file (default: scp_results.txt): ").strip()
+if not outputFile:
+    outputFile = "scp_results.txt"
 
 
 with open(outputFile, "w") as f:
